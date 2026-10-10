@@ -25,11 +25,11 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'OpenJarvis',
-        short_name: 'Jarvis',
+        name: 'Yash Rocks AI',
+        short_name: 'Yash AI',
         description: 'On-device AI assistant',
-        theme_color: '#161618',
-        background_color: '#161618',
+        theme_color: '#f97316',
+        background_color: '#fb923c',
         display: 'standalone',
         icons: [
           { src: 'pwa-192x192.png', sizes: '192x192', type: 'image/png' },
